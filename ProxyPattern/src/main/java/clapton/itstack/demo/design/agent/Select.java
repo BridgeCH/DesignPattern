@@ -1,4 +1,4 @@
-package org.itstack.demo.design.agent;
+package clapton.itstack.demo.design.agent;
 
 import java.lang.annotation.*;
 

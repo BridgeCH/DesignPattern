@@ -1,4 +1,4 @@
-package org.itstack.demo.design.agent;
+package clapton.itstack.demo.design.agent;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

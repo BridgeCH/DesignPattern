@@ -1,6 +1,6 @@
-package org.itstack.demo.design.test;
+package clapton.itstack.demo.design.test;
 
-import org.itstack.demo.design.IUserDao;
+import clapton.itstack.demo.design.IUserDao;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

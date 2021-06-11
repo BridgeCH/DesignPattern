@@ -1,6 +1,6 @@
-package org.itstack.demo.design.agent;
+package clapton.itstack.demo.design.agent;
 
-import org.itstack.demo.design.IUserDao;
+import clapton.itstack.demo.design.IUserDao;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanDefinitionHolder;
 import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;

@@ -1,6 +1,6 @@
-package org.itstack.demo.design;
+package clapton.itstack.demo.design;
 
-import org.itstack.demo.design.agent.Select;
+import clapton.itstack.demo.design.agent.Select;
 
 public interface IUserDao {
 
